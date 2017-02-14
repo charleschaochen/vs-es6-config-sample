@@ -1,0 +1,9 @@
+{
+    "name": "vscode es6 config",
+    "version": "0.0.1",
+    "devDependencies": {
+        "babel-cli": "*",
+        "babel-preset-es2015": "*"
+    },
+    "main": "lib/app.js"
+}
