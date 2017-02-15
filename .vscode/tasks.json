@@ -8,8 +8,8 @@
 
 {
 	"version": "0.1.0",
-    // "command": "${workspaceRoot}/node_modules/.bin/babel",  // for linux
-	"command": "${workspaceRoot}/node_modules/.bin/babel.cmd",  // for windows
+    	"command": "${workspaceRoot}/node_modules/.bin/babel",  // for linux
+	//"command": "${workspaceRoot}/node_modules/.bin/babel.cmd",  // for windows
 	"isShellCommand": true,
 	"tasks": [
 		{
