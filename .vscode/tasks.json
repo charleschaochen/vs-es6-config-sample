@@ -17,7 +17,7 @@
 			"taskName": "watch",
 			"suppressTaskName": true,
 			"isBuildCommand": true, // make this the F1 > Task: Run Build Task gesture
-			"isWatching": true // tell VS Code not wait for this task to finish
+			"isBackground": true // tell VS Code not wait for this task to finish
 		}
 	]
 }
